@@ -41,9 +41,10 @@ The test script includes:
 ---
 
 ## 📁 Project Structure
+```bash
 weather-simulation/
 │
 ├── assignment.py       # Main simulation file (WeatherSimulation class)
 ├── test.py              # Test runner that validates transitions, holding times, and simulation accuracy
 └── README.md            # Documentation for the project
-
+```
